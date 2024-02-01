@@ -47,7 +47,7 @@ Scan QR Code
   <hr>
   <h2>Deployments METHODS</h2>
   <details close>
-    <summary>Click to choose your favorite platform to deploy ZEAL-MD</summary>
+    <summary>Click to choose your favorite platform to deploy Cha9or</summary>
     <br><br>
     <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HEROKU✅+AND+RAILWAY✅" alt="Typing SVG" /></a>
